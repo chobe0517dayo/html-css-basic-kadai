@@ -1,11 +1,11 @@
-body {
+html {
     font-family: "Arial","Meiryo",sans-serif;
     text-align: center;
     font-size: 20px;
 }
 
-.google-fonts {
-    font-size: 40px;
+.google-font {
+    font-size: 2rem;
     letter-spacing: 1.2em;
     font-family: "Noto Sens JP", sans-serif;
     text-shadow: 2px 2px 4px gray;
